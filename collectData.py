@@ -51,9 +51,3 @@ if __name__ == "__main__":
         for drawId in range(1, latestId+1):
             rowData = pageCollect(drawId)
             writer.writerow(rowData)
-
-
-
-
-
-
