@@ -27,7 +27,7 @@ Total number of columns: **8,440,881,572** (columns start been reported from dra
 
 Average number of winners: **0.27716390423572745**
 
-Average number of expected winners: **0.22636940578842304**
+Average number of expected winners: **0.22636940578842304**  
 Average number of real winners over the same period: **0.24311926605504589**
 
 Biggest number of winners: **10** at drawId: 512
