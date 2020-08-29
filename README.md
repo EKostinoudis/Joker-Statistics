@@ -23,8 +23,7 @@ Total number of winners: **602**
 
 Total number of draws with at least one winner: **453**
 
-Total number of columns: **8,440,881,572**
-Columns start been reported from drawId: 647
+Total number of columns: **8,440,881,572** (columns start been reported from drawId: 647)
 
 Average number of winners: **0.27716390423572745**
 
