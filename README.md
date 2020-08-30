@@ -36,7 +36,7 @@ Biggest pool money **19,278,990.85** euros, at drawId: 1071 with 3 winners
 
 None jackpot winners: **36** out of 164
 
-Biggest winning spree: **5**
+Biggest winning spree: **5**  
 Biggest loss spree: **37**
 
 ## Graphs
